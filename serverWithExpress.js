@@ -1,4 +1,4 @@
-const modularizedFunctions = require('./modularizedFunctions.js')
+const modularizedFunctions = require('/Users/seongjoon/Desktop/Express_API/modularizedFunctions')
 const express = require('express');
 const app = express()
 
